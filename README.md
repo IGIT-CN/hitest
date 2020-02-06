@@ -1,2 +1,4 @@
 # hitest
 Android Test Framework
+# Thanks
+该项目基于Xposed和VirtualApp开源版本，由于VirtualApp禁止用于商业目的，如有商业需求请查看VirtualApp及Xposed的版权申明

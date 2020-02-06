@@ -1,0 +1,1 @@
+include ':lib', ':app', ':exposed-core', ':module-sample'
